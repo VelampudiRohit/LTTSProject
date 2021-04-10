@@ -12,6 +12,12 @@
  By the mid to late 2000s, library management system providers had increased not only the amount of resources available but also their costs, causing some dissatisfaction for many smaller libraries. Simultaneously, the _open source Integrated Library System_ was in its early stages of growth.
 
  Few libraries have begun to use open source modular library systems such as _**KOHA**_ and _**Evergreen**_. The majority of these factors were to escape vendor lock-up, licencing costs, and to engage in software development. The much-needed vendor independence has encouraged libraries to prioritise needs based on urgency rather than what their vendor might deliver.
+ 
+ Libraries who have recently switched to open source integrated library systems have discovered that providers are now more likely to offer reliable support in order to maintain a relationship when they no longer have the leverage of owning the Integrated Library System programme and binding libraries down to tight contracts. This is what happened with the _**SC LENDS consortium**_. Following the popularity of **Evergreen** with the _**Georgia PINES library consortium**_, _**the South Carolina State Library_** and several local public libraries developed the _**SC LENDS consortium**_ to exchange services and take advantage of the open source nature of the Evergreen Integrated Library System to address their unique needs.
+ 
+ By **October 2015**, just few years after _**SC LENDS's inception**_, thirteen public library systems from 15 states, in addition to the South Carolina State Library, had entered the consortium. Librarytechnology.org conducts an annual survey of over 1,500 libraries and found that in 2012, 2% of those interviewed used the Integrated Library System, 8% in 2013, and 12% in 2014 had implemented an open source Library Management System.
+
+ A library project framework with many versatile and convenient features that allow librarians and library users to optimise time and productivity. The library system has comprehensive information on teachers, employees, and materials, as well as tracking the books that are accessible in the library and the books that have been distributed to library users (students). It displays the most famous books among students. It can have a book that was misplaced in the library. It maintains track of the retailer as well as the book binders.
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
