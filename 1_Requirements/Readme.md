@@ -24,7 +24,7 @@
 ## Defining Our System
     
 ## SWOT ANALYSIS
-![SWOT](1_Requirements\SWOT_Analysis.jpg)
+![SWOT](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/SWOT_Analysis.jpg)
 
 # 4W&#39;s and 1&#39;H
 
