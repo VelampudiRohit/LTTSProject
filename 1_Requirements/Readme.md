@@ -24,7 +24,7 @@
 ## Defining Our System
     
 ## SWOT ANALYSIS
-![SWOT](F:\projectwork\1_Requirements\SWOT_Analysis.jpg)
+![SWOT](1_Requirements\SWOT_Analysis.jpg)
 
 # 4W&#39;s and 1&#39;H
 
