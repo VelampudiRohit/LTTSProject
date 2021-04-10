@@ -22,9 +22,9 @@
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+    
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT](F:\projectwork\1_Requirements\SWOT_Analysis.jpg)
 
 # 4W&#39;s and 1&#39;H
 
