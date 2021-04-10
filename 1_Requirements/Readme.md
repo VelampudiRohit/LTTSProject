@@ -1,7 +1,8 @@
 # Requirements
 ## Introduction
-- Library management is an institutional sub-discipline which focuses on the specific issues facing libraries and professional library managers. Both normal management activities and intellectual independence, anticensorship and fund-raising are involved in the management of the library. Issues in the management of libraries also overlap those faced by non-profit organisations. The library system is a portrayal application that can usually be small or medium in scale.  
-- The librarian manages the library catégorically by using a computing system in which he/such as book problem, return of books, addition of new books, addition of new students, etc. will record different transactions. This framework also includes books and user maintenance modules to keep track of users using the library, and also a comprehensive overview of the books included in a library. There is no lack of book record or member record in this computerised system, which usually occurs when an unauthorised system is used. Also in the Library Management System is the report module. If the user is an administrator, he or she can produce reports such as lists of registered users, lists of books, and issue and return reports. These modules can help librarians more easily and efficiently handle their library compared with non-computerized library systems. This system has been created to help librarians document and book transaction so that loss of books and files in the library can be reduced and eliminated.
+- A library is a compilation of material and related materials that are made available to a certain group for reference or borrowing. As a result, manually managing a library is time-consuming and inefficient. In this respect, the computerised framework for managing library management operations is a systematic way to minimise human labour, the complexity of the manual system, and soon.
+- The aim of this project is to develop and incorporate a computerised library management system. The C programming language was used to develop and execute the library management framework.
+
 
 ## Research
 ![Description](Link to Pic)
