@@ -22,6 +22,16 @@
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
+
+-- This System has the ability to:
+   - Login
+   - Add Records of the Book
+   - Delete Records of the Book
+   - Edit Records of Books
+   - Search the Records
+   - View all the Records
+
+
     
 ## SWOT ANALYSIS
 ![SWOT](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/SWOT_Analysis.jpg)
@@ -30,30 +40,42 @@
 
 ## Who:
 
-**TBD**
+- All Libraries, for maintaining records of their books.
 
 ## What:
 
-**TBD**
+- It is tough for the Librarians to handle the maintenance the records of all books in their Library. This will help them to maintain the records.
 
 ## When:
 
-**TBD**
+- In early 2000's, The need of a Digital way of managing, maintaining the records of Libraries. Thus, This system came into the picture.
 
 ## Where:
 
-**TBD**
+- All around the world.
 
 ## How:
 
-**TBD**
+- There has been a lot of cases where the manual records were not in a position to access, thus not able to know about the issues and returns of books. Using this system, we can eliminate that possibility.
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| HLR01 | Library Management System | Future |
+   
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+|ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LLR01 | The Admin shall see a welcome screen into the Library Management System | Future |
+| LLR02 | The Admin shall login with his/her unique username and password | Future |
+| LLR03 | The Admin shall see a main-menu with options to choose for | Future |
+| LLR04 | The Admin will be able to add a book into the records by giving the details of that book | Future |
+| LLR05 | The Admin can be able to delete the records of book that has been submitted | Future |
+| LLR06 | The Admin will be able to edit the details of the record of any book | Future |
+| LLR07 | The Admin can search for any book in the records | Future |
+| LLR08 | The Admin will be able to view all the books in the record | Future |
