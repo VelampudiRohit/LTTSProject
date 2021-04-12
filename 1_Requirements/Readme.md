@@ -30,23 +30,23 @@
 
 ## Who:
 
-**TBD**
+- All Libraries, for maintaining records of their books.
 
 ## What:
 
-**TBD**
+- It is tough for the Librarians to handle the maintenance the records of all books in their Library. This will help them to maintain the records.
 
 ## When:
 
-**TBD**
+- In early 2000's, The need of a Digital way of managing, maintaining the records of Libraries. Thus, This system came into the picture.
 
 ## Where:
 
-**TBD**
+- All around the world.
 
 ## How:
 
-**TBD**
+- There has been a lot of cases where the manual records were not in a position to access, thus not able to know about the issues and returns of books. Using this system, we can eliminate that possibility.
 
 # Detail requirements
 ## High Level Requirements:
