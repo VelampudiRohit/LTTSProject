@@ -98,7 +98,7 @@ void login()
 	
 		printf("\n\t\t\t\tPassword:");
 		scanf("%s" ,b);
-		if((strcmp(a,"www.projectnotes.org")==0)&& (strcmp(b,"projectnotes")==0))
+		if((strcmp(a,"rohit")==0)&& (strcmp(b,"rohit")==0))
 		{
 			printf("\n\t\t\t\tLogged Into System.");
 			printf("\n\t\t\t\tPress any key to go next.....");
