@@ -51,12 +51,21 @@
 # Detail requirements
 ## High Level Requirements:
 
-| ID | Description | Status (Implemented/Future)
+| ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
 | HLR01 | Library Management System | Future |
    
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+|ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LLR01 | The Admin shall see a welcome screen into the Library Management System | Future |
+| LLR02 | The Admin shall login with his/her unique username and password | Future |
+| LLR03 | The Admin shall see a main-menu with options to choose for | Future |
+| LLR04 | The Admin will be able to add a book into the records by giving the details of that book | Future |
+| LLR05 | The Admin can be able to delete the records of book that has been submitted | Future |
+| LLR06 | The Admin will be able to edit the details of the record of any book | Future |
+| LLR07 | The Admin can search for any book in the records | Future |
+| LLR08 | The Admin will be able to view all the books in the record | Future |
