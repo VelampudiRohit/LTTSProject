@@ -31,6 +31,8 @@
    - Search the Records
    - View all the Records
 
+which can be seen in a pictorial representation as follows:
+
 ![System Definition](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/LMS.png)
     
 ## SWOT ANALYSIS
