@@ -26,6 +26,7 @@
 This System has the ability to:
 
    - Login
+   - Show the choices in Main Menu
    - Add Records of the Book
    - Delete Records of the Book
    - Edit Records of Books
