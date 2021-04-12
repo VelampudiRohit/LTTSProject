@@ -31,7 +31,7 @@
    - Search the Records
    - View all the Records
 
-
+![System Definition](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/SWOT_Analysis.jpg)
     
 ## SWOT ANALYSIS
 ![SWOT](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/SWOT_Analysis.jpg)
