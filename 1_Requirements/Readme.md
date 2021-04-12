@@ -50,8 +50,11 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID | Description | Status (Implemented/Future)
+| --- | --- | --- |
+| HLR01 | Library Management System | Future |
+   
 
 
 ##  Low level Requirements:
