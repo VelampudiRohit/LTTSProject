@@ -23,7 +23,8 @@
 -- Content 
 ## Defining Our System
 
--- This System has the ability to:
+This System has the ability to:
+
    - Login
    - Add Records of the Book
    - Delete Records of the Book
