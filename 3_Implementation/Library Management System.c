@@ -46,7 +46,7 @@ void main() // declare main function
 	welcome(); // call welcome screen
 	login();// call login screen
 }
-// welcomr function
+// welcome function
 void welcome()
 {
 
