@@ -23,15 +23,19 @@
 -- Content 
 ## Defining Our System
 
--- This System has the ability to:
+This System has the ability to:
+
    - Login
+   - Show the choices in Main Menu
    - Add Records of the Book
    - Delete Records of the Book
    - Edit Records of Books
    - Search the Records
    - View all the Records
 
+which can be seen in a pictorial representation as follows:
 
+![System Definition](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/LMS.png)
     
 ## SWOT ANALYSIS
 ![SWOT](https://github.com/VelampudiRohit-292119/LTTSProject/blob/main/1_Requirements/SWOT_Analysis.jpg)
