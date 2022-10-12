@@ -6,7 +6,7 @@ Folder             | Description
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+`4_Images_And_Videos`      | Videos/images regarding the implementation and working on code
 
 ## Contributors List and Summary
 
